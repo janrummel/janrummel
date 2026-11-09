@@ -3,6 +3,8 @@
 Ingenieur und Dozent. Ich zeige Teams in Unternehmen, wie sie KI im Arbeitsalltag dort einsetzen, wo sie wirklich hilft.
 **Erst das Problem, dann die KI.**
 
+Herkunft Energietechnik (M.Sc., Universität Stuttgart), danach mehrere Jahre Quartiersplanung für Wärme und Strom. Seit 2026 baue ich mit KI-Agenten und gebe weiter, was ich dabei lerne.
+
 Vortrag oder Workshop anfragen: [janrummel.eu](https://janrummel.eu/lehre.html)
 
 ## Offene Kurse
