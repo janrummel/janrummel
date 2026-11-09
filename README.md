@@ -16,6 +16,7 @@ Kostenlos, ohne Anmeldung. Stand = letzte inhaltliche Überarbeitung.
 | [AI Fluency](https://janrummel.github.io/ai-fluency/): mit KI im Alltag sicher arbeiten, 4 Stufen | EN, DE | März 2026 |
 | [Obsidian für Einsteiger](https://janrummel.github.io/obsidian-fuer-einsteiger/): 6 Module | DE, EN | Juli 2026 |
 | [GitHub für Nicht-Programmierer](https://janrummel.github.io/github-fuer-nicht-programmierer/): Mini-Lernreise | DE | März 2026 |
+| [Agent Literacy](https://janrummel.github.io/agent-literacy/): wie KI-Agenten-Systeme funktionieren, 5 Module | DE, EN | November 2026 |
 
 ## Arbeitsweise, offen nachprüfbar
 
